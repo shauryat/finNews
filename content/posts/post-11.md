@@ -2,7 +2,7 @@
 template: SinglePost
 title: Yellow Van
 status: Published
-date: 2018-05-25
+date: 2019-12-28
 featuredImage: https://ucarecdn.com/a7f36998-7a41-4a63-b0b1-91ef46cd638b/
 excerpt: This is placeholder text that our web designers put here to make sure
   words appear properly on your website. This text is going to be replaced once

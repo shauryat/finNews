@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Hello World
+author: Jane Doe
 status: Published
 date: 2020-12-29
 featuredImage: https://ucarecdn.com/10c5c645-ce5f-4565-80e4-76ce9192d472/
@@ -14,8 +15,8 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   feugiat vivamus at augue eget. Iaculis urna id volutpat lacus laoreet non
   curabitur gravida arcu.
 categories:
-  - category: Story of The Day
-  - category: Markets
+  - category: News
+  - category: Updates
   - category: Technology
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor id eu nisl nunc. Eget aliquet nibh praesent tristique magna sit amet purus. Dolor sit amet consectetur adipiscing elit ut aliquam. Pharetra convallis posuere morbi leo urna molestie. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam. Nunc sed augue lacus viverra vitae congue eu. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Lobortis feugiat vivamus at augue eget. Iaculis urna id volutpat lacus laoreet non curabitur gravida arcu.

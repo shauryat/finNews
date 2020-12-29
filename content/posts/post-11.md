@@ -10,6 +10,7 @@ excerpt: This is placeholder text that our web designers put here to make sure
   English, not any other language.
 categories:
   - category: Story of The Day
+  - category: Business
 meta:
   description: test meta description
   title: test meta title

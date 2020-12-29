@@ -3,6 +3,7 @@ import { navigate } from 'gatsby'
 import { Location } from '@reach/router'
 import qs from 'qs'
 
+
 export default ({ pageCount }) => {
   return (
     <Location>

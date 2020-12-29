@@ -23,15 +23,30 @@
 
 .PostCard--Title {
   margin: 0;
+  display: flex;
 }
 
 .PostCard--Content {
   padding: 0 2.5rem 2.5rem;
 }
 
+.PostCard--Category--SOTD {
+  font-size: 1.3rem;
+  min-height: 1.2em;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0.7em 0;
+  color: var(--danger);
+  margin-left: 2.5rem;
+  
+}
+
 .PostCard--Category {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   min-height: 1.2em;
   line-height: 1;
   margin: 0.5em 0;
+  color: var(--primary);
+  font-weight: 600;
+  
 }

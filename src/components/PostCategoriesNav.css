@@ -7,7 +7,7 @@
 }
 
 .PostCategoriesNav > * + * {
-  margin-left: 1rem;
+  margin-left: 0rem;
 }
 
 .PostCategoriesNav input[type='text'] {
@@ -32,6 +32,8 @@
 @media (max-width: 600px) {
   .PostCategoriesNav input[type='text'] {
     position: relative;
-    width: 100%;
+    width: 95%;
+    margin-left: -0.3rem;
+    margin-top: 1rem;
   }
 }

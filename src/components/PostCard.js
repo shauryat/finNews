@@ -20,10 +20,17 @@ const PostCard = ({
       </div>
     )}
     <div className="PostCard--Content">
-      {title && <h3 className="PostCard--Title">{title}</h3>}
+      {title && <h3 className="PostCard--Title">{title}
+      <div className="PostCard--Category--SOTD">
+        {categories && categories.filter(cat => cat.category === "Story of The Day").map(cat => cat.category)}
+      </div></h3>}
+      
       <div className="PostCard--Category">
-        {categories && categories.map(cat => cat.category).join(', ')}
+        {categories && categories.filter(cat => cat.category !== "Story of The Day").map(cat => cat.category).join(', ')}
       </div>
+
+     
+
       {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
     </div>
   </Link>

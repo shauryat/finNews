@@ -1,7 +1,8 @@
 ---
 template: SinglePost
 title: Red Imposter
-status: Featured / Published
+author: Jane Doe
+status: Published
 date: 2018-03-27
 featuredImage: https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/
 excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.

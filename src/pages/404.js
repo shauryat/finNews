@@ -18,7 +18,7 @@ export default ({ children }) => (
     render={data => (
       <Layout>
         <Helmet>
-          <title>404 – Page Not Found</title>
+          <title>404 – Page Not Found You Bot</title>
         </Helmet>
         <section className="section thick">
           <div className="container skinny taCenter">

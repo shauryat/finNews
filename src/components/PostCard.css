@@ -37,8 +37,14 @@
   line-height: 1;
   margin: 0.7em 0;
   color: var(--danger);
-  margin-left: 2.5rem;
+  margin-left: 5.2rem;
   
+}
+
+@media (max-width: 600px) { 
+  .PostCard--Category--SOTD {
+    margin-left: 4.5rem;
+  }
 }
 
 .PostCard--Category {
@@ -49,4 +55,10 @@
   color: var(--primary);
   font-weight: 600;
   
+}
+
+.PostCard--Author {
+  font-size: 1rem;
+  margin-top: -1.3rem;
+  color: #D3D3D3;
 }

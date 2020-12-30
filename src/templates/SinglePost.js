@@ -9,6 +9,7 @@ import './SinglePost.css'
 
 export const SinglePostTemplate = ({
   title,
+  author,
   date,
   body,
   nextPostURL,
@@ -58,6 +59,10 @@ export const SinglePostTemplate = ({
               {title}
             </h1>
           )}
+
+          {author && ( <div className="SinglePost--Author">
+            {author}
+            </div>)}
 
           <div className="SinglePost--InnerContent">
             <Content source={body} />
@@ -120,6 +125,7 @@ export const pageQuery = graphql`
       id
       frontmatter {
         title
+        author
         template
         subtitle
         date(formatString: "MMMM Do, YYYY")

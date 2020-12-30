@@ -1,8 +1,9 @@
 ---
 template: SinglePost
 title: Red Imposter
+author: Jacky Doe
 status: Featured / Published
-date: 2018-03-27
+date: 2020-12-30
 featuredImage: https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/
 excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
   Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
@@ -10,6 +11,7 @@ excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
   - category: News
+  - category: Story of The Day
 meta:
   canonicalLink: ""
   description: test meta description

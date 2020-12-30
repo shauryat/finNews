@@ -1,6 +1,7 @@
 ---
 template: SinglePost
-title: Swiming
+title: Swiming Dive
+author: Jane Doe
 status: Published
 date: 2020-12-27
 featuredImage: https://ucarecdn.com/6a00645e-a07d-4c6c-8386-7e0f86bcff84/-/crop/1632x1853/0,596/-/preview/

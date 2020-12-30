@@ -1,8 +1,9 @@
 ---
 template: SinglePost
-title: Hello World
+title: Hello World 
+author: John Doe
 status: Published
-date: 2020-12-29
+date: 2020-12-25
 featuredImage: https://ucarecdn.com/10c5c645-ce5f-4565-80e4-76ce9192d472/
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Tempor id eu nisl nunc.
@@ -14,7 +15,6 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   feugiat vivamus at augue eget. Iaculis urna id volutpat lacus laoreet non
   curabitur gravida arcu.
 categories:
-  - category: Story of The Day
   - category: Markets
   - category: Technology
 ---

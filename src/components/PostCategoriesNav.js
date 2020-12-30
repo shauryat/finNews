@@ -6,10 +6,10 @@ import './PostCategoriesNav.css'
 
 const PostCategoriesNav = ({ categories, enableSearch }) => (
   <div className="PostCategoriesNav">
-    <Link className="NavLink" exact="true" to={`/`}>
-      All
+    <Link className="NavLink" exact="true" to={`/post-categories/story-of-the-day/`}>
+      Stories of The Day
     </Link>
-    {categories.map((category, index) => (
+    {categories.filter(cat => cat.title !== "Story of The Day").map((category, index) => (
       <Link
         exact="true"
         className="NavLink"

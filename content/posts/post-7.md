@@ -1,8 +1,9 @@
 ---
 template: SinglePost
-title: Chairs
+title: Chairs Dinner
+author: Jane Doe
 status: Featured / Published
-date: '2018-03-27'
+date: '2020-12-30'
 featuredImage: >-
   https://ucarecdn.com/f540281a-41cf-4bfa-8181-b172e2655fba/-/crop/1632x1777/0,672/-/preview/
 excerpt: >-
@@ -12,6 +13,7 @@ excerpt: >-
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
   - category: News
+  - category: Story of The Day
 meta:
   canonicalLink: ''
   description: test meta description

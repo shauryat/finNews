@@ -76,3 +76,10 @@
 .SinglePost--Pagination--Link.next {
   margin-left: auto;
 }
+
+.SinglePost--Author {
+  font-size: 2rem;
+  color:var(--primary);
+  margin-bottom: 3rem;
+  text-align: center;
+}

@@ -6,6 +6,7 @@ import './PostSection.css'
 class PostSection extends React.Component {
   static defaultProps = {
     posts: [],
+    author:'',
     title: '',
     limit: 12,
     showLoadMore: true,

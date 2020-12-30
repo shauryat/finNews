@@ -11,6 +11,7 @@ const PostCard = ({
   slug,
   categories = [],
   className = '',
+  author,
   ...props
 }) => (
   <Link to={slug} className={`PostCard ${className}`}>
@@ -21,16 +22,16 @@ const PostCard = ({
     )}
     <div className="PostCard--Content">
       {title && <h3 className="PostCard--Title">{title}
-      <div className="PostCard--Category--SOTD">
+       <div className="PostCard--Category--SOTD">
         {categories && categories.filter(cat => cat.category === "Story of The Day").map(cat => cat.category)}
       </div></h3>}
+
+      {author && <h5 className="PostCard--Author"> @{author} </h5>}
       
       <div className="PostCard--Category">
         {categories && categories.filter(cat => cat.category !== "Story of The Day").map(cat => cat.category).join(', ')}
       </div>
-
-     
-
+  
       {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
     </div>
   </Link>

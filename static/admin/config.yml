@@ -99,7 +99,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/blog.md'
-        label: 'Blog Page'
+        label: 'Home Page'
         name: 'blog-page'
         fields:
           - {
@@ -195,7 +195,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/home.md'
-        label: 'Home Page'
+        label: 'Home2 Page'
         name: 'home-page'
         fields:
           - {

@@ -41,11 +41,36 @@
   
 }
 
-@media (max-width: 600px) { 
+
+
+/* iPhone5 & iPhone SE */
+
+@media (min-width: 300px) and (max-width: 324px) { 
   .PostCard--Category--SOTD {
-    margin-left: 4.5rem;
+    margin-left: 4rem;
+    font-size: 1rem;
+  }
+  
+  .PostCard--Title {
+    font-size: 1.5rem;
+  }  
+}
+
+/* iPhoneX */
+@media (min-width: 325px) and (max-width: 375px) { 
+  .PostCard--Category--SOTD {
+    margin-left: 4rem;
   }
 }
+
+/* Rest Mobile Devices */
+@media (min-width: 380px) and (max-width: 500px) { 
+  .PostCard--Category--SOTD {
+    margin-left: 7.5rem;
+  }
+}
+
+
 
 .PostCard--Category {
   font-size: 1.4rem;

@@ -26,7 +26,7 @@ const PostCard = ({
         {categories && categories.filter(cat => cat.category === "Story of The Day").map(cat => cat.category)}
       </div></h3>}
 
-      {author && <h5 className="PostCard--Author"> @{author} </h5>}
+      {author && <h5 className="PostCard--Author">  @{author} </h5>}
       
       <div className="PostCard--Category">
         {categories && categories.filter(cat => cat.category !== "Story of The Day").map(cat => cat.category).join(', ')}

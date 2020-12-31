@@ -32,11 +32,16 @@
 @media (max-width: 600px) {
   .PostCategoriesNav input[type='text'] {
     position: relative;
-    width: 95%;
-    margin-left: -0.3rem;
+    width: 98%;
+    margin-left: 0rem;
     margin-top: 1rem;
   }
   .PostCategoriesNav  * {
-    margin-left: -0.2rem;
+    margin-left: 0rem;
    }
+}
+
+.NavLink {
+  color: var(--primary);
+  
 }

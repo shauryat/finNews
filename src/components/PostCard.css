@@ -37,7 +37,7 @@
   line-height: 1;
   margin: 0.7em 0;
   color: var(--danger);
-  margin-left: 5.2rem;
+  margin-left: 6.2rem;
   
 }
 
@@ -59,14 +59,14 @@
 /* iPhoneX */
 @media (min-width: 325px) and (max-width: 375px) { 
   .PostCard--Category--SOTD {
-    margin-left: 4rem;
+    margin-left: 5.2rem;
   }
 }
 
 /* Rest Mobile Devices */
 @media (min-width: 380px) and (max-width: 500px) { 
   .PostCard--Category--SOTD {
-    margin-left: 7.5rem;
+    margin-left: 8.2rem;
   }
 }
 

@@ -12,7 +12,7 @@ const PostCategoriesNav = ({ categories, enableSearch }) => (
     {categories.filter(cat => cat.title !== "Story of The Day").map((category, index) => (
       <Link
         exact="true"
-        className="NavLink"
+        className="NavLinky"
         key={category.title + index}
         to={category.slug}
       >

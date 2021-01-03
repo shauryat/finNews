@@ -1,0 +1,96 @@
+.HomeHeader {
+    background-color: white;
+    color: var(--primary);
+    padding: 10rem 0;
+    height: 280px;
+  }
+  
+  .HomeHeader .BackgroundImagey {
+    opacity: 0.8;
+  }
+  
+  .HomeHeader-large {
+    padding: 20rem 0;
+  }
+  
+  .HomeHeader--Title {
+    font-size: 7rem;
+    margin-bottom: 0;
+    margin-top: -6rem;
+  }
+  
+  .HomeHeader--Subtitle {
+    font-weight: 300;
+    font-size: 2.4rem;
+  }
+  
+  .HomeHeader .container {
+    animation: fadeIn 0.5s ease-out;
+  }
+  
+  
+  @media (min-width:350px) and (max-width: 380px) {
+    .HomeHeader {
+      padding: 4rem 0;
+    }
+    .HomeHeader-large {
+      padding: 5.5rem 0;
+    }
+    .HomeHeader--Title {
+      font-size: 4rem;
+      margin-bottom: 0;
+      margin-top: -3rem;
+    }
+    .HomeHeader--Subtitle {
+      font-weight: 400;
+      font-size: 1.5rem;
+    }
+    .HomeHeader {
+      height: 180px;
+      padding: rem 0;
+    }
+  }
+
+  @media (min-width:385px) and (max-width: 600px) {
+    .HomeHeader {
+      padding: 4rem 0;
+    }
+    .HomeHeader-large {
+      padding: 5.5rem 0;
+    }
+    .HomeHeader--Title {
+      font-size: 4rem;
+      margin-bottom: 0;
+      margin-top: -2.3rem;
+    }
+    .HomeHeader--Subtitle {
+      font-weight: 400;
+      font-size: 1.5rem;
+    }
+    .HomeHeader {
+      height: 160px;
+      padding: rem 0;
+    }
+  }
+  
+  @media (min-width:300px) and (max-width: 349px) {
+    .HomeHeader {
+      padding: 4rem 0;
+    }
+    .HomeHeader-large {
+      padding: 9.5rem 0;
+    }
+    .HomeHeader--Title {
+      font-size: 3.5rem;
+      margin-bottom: 0;
+    }
+    .HomeHeader--Subtitle {
+      font-weight: 400;
+      font-size: 1.2rem;
+    }
+    .HomeHeader {
+      height: 240px;
+      padding: 6rem 0;
+    }
+  }
+  

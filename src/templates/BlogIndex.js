@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 import { Location } from '@reach/router'
 import qs from 'qs'
 
-import PageHeader from '../components/PageHeader'
+import HomeHeader from '../components/HomeHeader'
 import PostSection from '../components/PostSection'
 import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
@@ -63,10 +63,9 @@ export const BlogIndexTemplate = ({
 
       return (
         <main className="Blog">
-          <PageHeader
+          <HomeHeader
             title={title}
             subtitle={subtitle}
-            backgroundImage={featuredImage}
           />
 
           {!!postCategories.length && (

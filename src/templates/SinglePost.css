@@ -10,6 +10,7 @@
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.1em;
+  margin-top: -1.7rem;
 }
 
 .SinglePost--BackButton svg {
@@ -25,7 +26,7 @@
 
 .SinglePost--Content {
   background: white;
-  padding: 6rem 8rem 4rem 6rem;
+  padding: 4rem 8rem 4rem 4rem;
 }
 
 @media screen and (max-width: 750px) {
@@ -35,9 +36,9 @@
 }
 
 .SinglePost--Meta {
-  font-size: 1rem;
+  font-size: 1.4rem;
   margin: 0 0 2rem 0;
-  text-align: center;
+  text-align: left;
 }
 
 .SinglePost--Meta > * + * {
@@ -45,12 +46,13 @@
 }
 
 .SinglePost--Title {
-  text-align: center;
+  text-align: left;
   line-height: 1.2;
+  font-size: 3rem;
 }
 
 .SinglePost--InnerContent {
-  padding: 0 8rem;
+  padding: 0 0rem;
 }
 
 @media screen and (max-width: 750px) {
@@ -81,5 +83,6 @@
   font-size: 2rem;
   color:var(--primary);
   margin-bottom: 3rem;
-  text-align: center;
+  margin-top: -1.2rem;
+  text-align: left;
 }

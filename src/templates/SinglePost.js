@@ -61,7 +61,7 @@ export const SinglePostTemplate = ({
           )}
 
           {author && ( <div className="SinglePost--Author">
-            {author}
+            @{author}
             </div>)}
 
           <div className="SinglePost--InnerContent">

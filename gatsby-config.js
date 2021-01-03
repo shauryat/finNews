@@ -6,46 +6,22 @@ module.exports = {
     siteUrl: 'https://laughing-hoover-046bf5.netlify.app/'
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+        trackingId: "G-J8D9L6LHR0",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false 
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     {
-      resolve: 'gatsby-plugin-google-tagmanager',
-      options: {
-        /*id: 'GTM-add_your_tag_here',*/
-        id: 'G-J8D9L6LHR0',
-        includeInDevelopment: false
-      }
-    },
-    // {
-    //   resolve: 'gatsby-plugin-offline',
-    //   options: {
-    //     runtimeCaching: [
-    //       {
-    //         // Use cacheFirst since these don't need to be revalidated (same RegExp
-    //         // and same reason as above)
-    //         urlPattern: /(\.js$|\.css$|static\/)/,
-    //         handler: `cacheFirst`
-    //       },
-    //       {
-    //         // Add runtime caching of various other page resources
-    //         urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
-    //         handler: `staleWhileRevalidate`
-    //       },
-    //       {
-    //         // uploadcare
-    //         urlPattern: /^https:\/\/ucarecdn.com\/[-a-zA-Z0-9@:%_\+.~#?&//=]*?\/10x\//,
-    //         handler: `staleWhileRevalidate`
-    //       }
-    //     ],
-    //     skipWaiting: true,
-    //     clientsClaim: true
-    //   }
-    // },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'yellowcake',
-        short_name: 'yellowcake',
+        name: 'Finance Cake',
+        short_name: 'FinCake',
         start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',

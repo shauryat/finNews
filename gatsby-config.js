@@ -7,12 +7,19 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        // The property ID; the tracking code won't be generated without it
-        trackingId: "G-J8D9L6LHR0",
-        // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: false 
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          "G-J8D9L6LHR0", // Google Analytics / GA
+              ],
+        // This object is used for configuration specific to this plugin
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: false,
+          // Setting this parameter is also optional
+          respectDNT: true,
+        },
       },
     },
     'gatsby-plugin-react-helmet',

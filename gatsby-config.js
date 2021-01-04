@@ -22,6 +22,13 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-9621492055672592`
+      },
+    },
+
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     {

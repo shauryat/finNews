@@ -5,6 +5,10 @@
   margin: 0 auto;
 }
 
+.Accordion:focus {
+  outline:0;
+}
+
 .Accordion img {
   position: absolute;
   top: -15rem;

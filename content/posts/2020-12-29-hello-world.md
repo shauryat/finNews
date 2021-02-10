@@ -15,8 +15,7 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   feugiat vivamus at augue eget. Iaculis urna id volutpat lacus laoreet non
   curabitur gravida arcu.
 categories:
-  - category: Markets
-  - category: Technology
+  - category: Politics
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor id eu nisl nunc. Eget aliquet nibh praesent tristique magna sit amet purus. Dolor sit amet consectetur adipiscing elit ut aliquam. Pharetra convallis posuere morbi leo urna molestie. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam. Nunc sed augue lacus viverra vitae congue eu. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Lobortis feugiat vivamus at augue eget. Iaculis urna id volutpat lacus laoreet non curabitur gravida arcu.
 

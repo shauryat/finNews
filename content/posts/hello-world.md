@@ -10,7 +10,7 @@ excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
   lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
-  - category: News
+  - category: Finance
   - category: Story of The Day
 meta:
   canonicalLink: ""

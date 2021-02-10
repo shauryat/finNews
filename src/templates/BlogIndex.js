@@ -66,6 +66,7 @@ export const BlogIndexTemplate = ({
           <HomeHeader
             title={title}
             subtitle={subtitle}
+            backgroundImage={featuredImage}
           />
 
           {!!postCategories.length && (

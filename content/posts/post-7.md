@@ -12,7 +12,7 @@ excerpt: >-
   est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
-  - category: News
+  - category: Economics
   - category: Story of The Day
 meta:
   canonicalLink: ''

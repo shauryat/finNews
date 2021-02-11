@@ -1,13 +1,11 @@
 .HomeHeader {
-    background-color: black;
-    color: white;
+    color: black; 
     padding: 10rem 0;
-    height: 355px;
-   
+    height: 375px;
   }
   
   .HomeHeader .BackgroundImage {
-    opacity: 0.57;
+    opacity: 0.87;
   }
   
   .HomeHeader-large {
@@ -18,19 +16,20 @@
     font-size: 9rem;
     margin-bottom: 0;
     margin-top: -6rem;
-   
+    color: var(--primary);
   }
   
   .HomeHeader--Subtitle {
     font-weight: 300;
     font-size: 2.4rem;
+    width: 60%;
   }
   
   .HomeHeader .container {
     animation: fadeIn 0.5s ease-out;
   }
   
-  
+  /* iPhone X onwards */
   @media (min-width:350px) and (max-width: 380px) {
     .HomeHeader {
       padding: 4rem 0;
@@ -47,13 +46,16 @@
     .HomeHeader--Subtitle {
       font-weight: 400;
       font-size: 1.5rem;
+      width: 64%;
+    
     }
     .HomeHeader {
-      height: 180px;
+      height: 240px;
       padding: rem 0;
     }
   }
 
+/* Android phones */
   @media (min-width:385px) and (max-width: 600px) {
     .HomeHeader {
       padding: 4rem 0;
@@ -70,13 +72,15 @@
     .HomeHeader--Subtitle {
       font-weight: 400;
       font-size: 1.5rem;
+      width: 67%;
     }
     .HomeHeader {
-      height: 160px;
+      height: 200px;
       padding: rem 0;
     }
   }
-  
+
+  /* small phones */
   @media (min-width:300px) and (max-width: 349px) {
     .HomeHeader {
       padding: 4rem 0;
@@ -92,6 +96,7 @@
     .HomeHeader--Subtitle {
       font-weight: 400;
       font-size: 1.2rem;
+      width: 60%;
     }
     .HomeHeader {
       height: 240px;

@@ -47,7 +47,7 @@
   display: block;
   font-weight: 500;
   transition: color 0.2s, border-bottom-color 0.2s;
-  color: var(--primary);
+  color: black;
   background-color: var(--lightGrey);
   text-decoration: none;
   border-radius: 20px;
@@ -70,6 +70,7 @@
     font-size: 1.5rem;
     margin-top: 1rem;
     border-radius: 26px;
+    margin-left: 0.5rem;
   }
 
    .NavLinky:nth-of-type(2) {

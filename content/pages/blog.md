@@ -1,8 +1,8 @@
 ---
 template: BlogIndex
 slug: ""
-title: EconMob
-featuredImage: https://i.imgur.com/dzb9WVA.jpg
+title: EconZest
+featuredImage: https://i.imgur.com/7sEvdC3.jpg
 subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
   veniam,

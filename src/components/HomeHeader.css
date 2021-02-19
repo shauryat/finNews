@@ -20,7 +20,7 @@
   }
   
   .HomeHeader--Subtitle {
-    font-weight: 300;
+    font-weight: 500;
     font-size: 2.4rem;
     width: 60%;
   }
@@ -44,7 +44,7 @@
       margin-top: -3rem;
     }
     .HomeHeader--Subtitle {
-      font-weight: 400;
+      font-weight: 500;
       font-size: 1.5rem;
       width: 62%;
     
@@ -70,9 +70,9 @@
       margin-top: -2.3rem;
     }
     .HomeHeader--Subtitle {
-      font-weight: 400;
-      font-size: 1.5rem;
-      width: 62%;
+      font-weight: 500;
+      font-size: 1.2rem;
+      width: 60%;
     }
     .HomeHeader {
       height: 200px;
@@ -90,16 +90,16 @@
       padding: 9.5rem 0;
     }
     .HomeHeader--Title {
-      font-size: 3.5rem;
+      font-size: 4.2rem;
       margin-bottom: 0;
     }
     .HomeHeader--Subtitle {
-      font-weight: 400;
+      font-weight: 500;
       font-size: 1.2rem;
       width: 60%;
     }
     .HomeHeader {
-      height: 240px;
+      height: 220px;
       padding: 6rem 0;
     }
   }
@@ -114,16 +114,16 @@
       padding: 6.5rem 0;
     }
     .HomeHeader--Title {
-      font-size: 3.5rem;
+      font-size: 4rem;
       margin-bottom: 0;
     }
     .HomeHeader--Subtitle {
-      font-weight: 400;
-      font-size: 1.2rem;
-      width: 60%;
+      font-weight: 500;
+      font-size: 1.3rem;
+      width: 58%;
     }
     .HomeHeader {
-      height: 240px;
+      height: 230px;
       padding: 6rem 0;
     }
   }

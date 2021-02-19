@@ -32,9 +32,9 @@
 @media (max-width: 600px) {
   .PostCategoriesNav input[type='text'] {
     position: relative;
-    width: 98%;
-    margin-left: 0rem;
-    margin-top: 1rem;
+    width: 80%;
+    margin-left: -0.5rem;
+    margin-top: 2rem;
   }
   .PostCategoriesNav  * {
     margin-left: 0rem;
@@ -59,8 +59,8 @@
   background-color: var(--primary);
   color: var(--lightGrey);
 }
-
-@media (max-width : 600px) {
+/* iPhone X, 11 / 11pro etc. */
+@media (min-width:375px) and (max-width: 380px) {
   .NavLinky {
     animation: Nav--Link 0.3s ease-out;
     animation-fill-mode: both;
@@ -70,7 +70,7 @@
     font-size: 1.5rem;
     margin-top: 1rem;
     border-radius: 26px;
-    margin-left: 0.5rem;
+    margin-left: -0.2rem;
   }
 
    .NavLinky:nth-of-type(2) {
@@ -98,6 +98,129 @@
     animation-delay: 0.6s;
   }
 }
+
+/* Big Flagships */
+@media (min-width:385px) and (max-width: 600px) {
+  .NavLinky {
+    animation: Nav--Link 0.3s ease-out;
+    animation-fill-mode: both;
+  }
+
+   .NavLinky {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    border-radius: 26px;
+    margin-left: -0.2rem;
+  }
+
+   .NavLinky:nth-of-type(2) {
+    animation-delay: 0.1s;
+  }
+   .NavLinky:nth-of-type(3) {
+    animation-delay: 0.2s;
+  }
+   .NavLinky:nth-of-type(4) {
+    animation-delay: 0.3s;
+  }
+   .NavLinky:nth-of-type(5) {
+    animation-delay: 0.4s;
+  }
+   .NavLinky:nth-of-type(6) {
+    animation-delay: 0.5s;
+  }
+   .NavLinky:nth-of-type(7) {
+    animation-delay: 0.6s;
+  }
+   .NavLinky:nth-of-type(8) {
+    animation-delay: 0.7s;
+  }
+   .NavLinky:nth-of-type(7) {
+    animation-delay: 0.6s;
+  }
+}
+
+/* small phones */
+@media (min-width:300px) and (max-width: 345px) {
+  .NavLinky {
+    animation: Nav--Link 0.3s ease-out;
+    animation-fill-mode: both;
+  }
+
+   .NavLinky {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    border-radius: 26px;
+    margin-left: 0rem;
+  }
+
+   .NavLinky:nth-of-type(2) {
+    animation-delay: 0.1s;
+  }
+   .NavLinky:nth-of-type(3) {
+    animation-delay: 0.2s;
+  }
+   .NavLinky:nth-of-type(4) {
+    animation-delay: 0.3s;
+  }
+   .NavLinky:nth-of-type(5) {
+    animation-delay: 0.4s;
+  }
+   .NavLinky:nth-of-type(6) {
+    animation-delay: 0.5s;
+  }
+   .NavLinky:nth-of-type(7) {
+    animation-delay: 0.6s;
+  }
+   .NavLinky:nth-of-type(8) {
+    animation-delay: 0.7s;
+  }
+   .NavLinky:nth-of-type(7) {
+    animation-delay: 0.6s;
+  }
+}
+
+/* 16:9 Phones */
+
+@media (min-width:360px) and (max-width: 370px) {
+  .NavLinky {
+    animation: Nav--Link 0.3s ease-out;
+    animation-fill-mode: both;
+  }
+
+   .NavLinky {
+    font-size: 1.5rem;
+    margin-top: 1.2rem;
+    border-radius: 26px;
+    margin-left: -0.3rem;
+  }
+
+   .NavLinky:nth-of-type(2) {
+    animation-delay: 0.1s;
+  }
+   .NavLinky:nth-of-type(3) {
+    animation-delay: 0.2s;
+  }
+   .NavLinky:nth-of-type(4) {
+    animation-delay: 0.3s;
+  }
+   .NavLinky:nth-of-type(5) {
+    animation-delay: 0.4s;
+  }
+   .NavLinky:nth-of-type(6) {
+    animation-delay: 0.5s;
+  }
+   .NavLinky:nth-of-type(7) {
+    animation-delay: 0.6s;
+  }
+   .NavLinky:nth-of-type(8) {
+    animation-delay: 0.7s;
+  }
+   .NavLinky:nth-of-type(7) {
+    animation-delay: 0.6s;
+  }
+}
+
+
 
 
 

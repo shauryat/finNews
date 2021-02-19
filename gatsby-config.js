@@ -2,7 +2,7 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Finance Cake',
+    title: 'EconZest',
     siteUrl: 'https://laughing-hoover-046bf5.netlify.app/'
   },
   plugins: [
@@ -34,15 +34,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Finance Cake',
-        short_name: 'FinCake',
+        name: 'EconZest',
+        short_name: 'EcoZ',
         start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: 'standalone',
-        icon: `${__dirname}/static/images/logo.svg` // This path is relative to the root of the site.
+        icon: `${__dirname}/static/images/Logos/zest.png` // This path is relative to the root of the site.
       }
     },
 

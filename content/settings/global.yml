@@ -1,8 +1,7 @@
-siteTitle: Yellow Cake
+siteTitle: EconZest
 siteUrl: 'https://laughing-hoover-046bf5.netlify.app'
 siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+  Articles on Econimics
 socialMediaCard:
-  image: 'https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/'
+  image: 'https://ucarecdn.com/53b8cd71-98da-4e36-8d39-2567335d9c6c/'
 googleTrackingId: 'UA-133175780-1'

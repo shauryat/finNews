@@ -43,6 +43,16 @@
 
 
 
+
+/* ---------new css responsive ---------- */
+
+/* iPhone X, 11 / 11pro etc. */
+@media (min-width:375px) and (max-width: 380px) { 
+  .PostCard--Category--SOTD {
+    margin-left: 5.2rem;
+  }
+}
+
 /* iPhone5 & iPhone SE */
 
 @media (min-width: 300px) and (max-width: 324px) { 
@@ -56,19 +66,20 @@
   }  
 }
 
-/* iPhoneX */
-@media (min-width: 325px) and (max-width: 375px) { 
-  .PostCard--Category--SOTD {
-    margin-left: 5.2rem;
-  }
-}
-
-/* Rest Mobile Devices */
-@media (min-width: 380px) and (max-width: 500px) { 
+/* Flagship */
+@media (min-width: 381px) and (max-width: 500px) { 
   .PostCard--Category--SOTD {
     margin-left: 8.2rem;
   }
 }
+
+/* 16:9 Oldies */ 
+@media (min-width : 350px) and (max-width : 374px) {
+  .PostCard--Category--SOTD {
+    margin-left: 10px;
+  }
+}
+
 
 
 

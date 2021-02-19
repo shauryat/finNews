@@ -29,8 +29,8 @@
     animation: fadeIn 0.5s ease-out;
   }
   
-  /* iPhone X onwards */
-  @media (min-width:350px) and (max-width: 380px) {
+  /* iPhone X, 11 / 11pro etc. */
+  @media (min-width:375px) and (max-width: 380px) {
     .HomeHeader {
       padding: 4rem 0;
       margin: none;
@@ -46,7 +46,7 @@
     .HomeHeader--Subtitle {
       font-weight: 400;
       font-size: 1.5rem;
-      width: 64%;
+      width: 62%;
     
     }
     .HomeHeader {
@@ -55,7 +55,7 @@
     }
   }
 
-/* Android phones */
+/* Big Flagships */
   @media (min-width:385px) and (max-width: 600px) {
     .HomeHeader {
       padding: 4rem 0;
@@ -72,7 +72,7 @@
     .HomeHeader--Subtitle {
       font-weight: 400;
       font-size: 1.5rem;
-      width: 67%;
+      width: 62%;
     }
     .HomeHeader {
       height: 200px;
@@ -81,7 +81,7 @@
   }
 
   /* small phones */
-  @media (min-width:300px) and (max-width: 349px) {
+  @media (min-width:300px) and (max-width: 345px) {
     .HomeHeader {
       padding: 4rem 0;
       margin: none;
@@ -103,4 +103,29 @@
       padding: 6rem 0;
     }
   }
+
+  /* 16:9 Oldies */
+  @media (min-width : 350px) and (max-width : 374px) {
+    .HomeHeader {
+      padding: 4rem 0;
+      margin: none;
+    }
+    .HomeHeader-large {
+      padding: 6.5rem 0;
+    }
+    .HomeHeader--Title {
+      font-size: 3.5rem;
+      margin-bottom: 0;
+    }
+    .HomeHeader--Subtitle {
+      font-weight: 400;
+      font-size: 1.2rem;
+      width: 60%;
+    }
+    .HomeHeader {
+      height: 240px;
+      padding: 6rem 0;
+    }
+  }
+
   

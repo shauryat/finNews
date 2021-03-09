@@ -1,9 +1,10 @@
 ---
 template: ComponentsPage
-slug: components
+slug: about
 title: About Us
-featuredImage: https://ucarecdn.com/97249850-238a-4fd5-95a1-c5a470493c8b/
-subtitle: This is the components page subtitle.
+featuredImage: https://i.imgur.com/cDg5r5C.png
+subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua.
 section1: >-
   ## Who are we ?
 

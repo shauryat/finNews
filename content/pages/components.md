@@ -2,15 +2,25 @@
 template: ComponentsPage
 slug: components
 title: About Us
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage: https://ucarecdn.com/97249850-238a-4fd5-95a1-c5a470493c8b/
 subtitle: This is the components page subtitle.
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## Who are we ?
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  > The Secret of getting ahead is getting started - Mark Twain
+
+
+  Welcome to **Econzest**
+
+
+  Your go to blogging website for commentary on the intersection between Economics, Politics, Business & Finance. We were work together to design ,design and produce work that we are proud , for the folks we believe in.
+
+
+  With the aim to empower our customers with the gift of knowledge to make the daunting topics, early understood and digested by the general audience.
+
+
+  Our mission is to provide you with the latest unfiltered information, facts and developments, in real.world implications of important issues
 section2: >-
   ## You can use videos, images and text.
 

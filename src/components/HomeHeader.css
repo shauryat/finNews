@@ -1,11 +1,12 @@
 .HomeHeader {
-    color: black; 
+    color: white; 
     padding: 10rem 0;
     height: 375px;
+    background-color: black ;
   }
   
   .HomeHeader .BackgroundImage {
-    opacity: 0.87;
+    opacity: 0.7;
   }
   
   .HomeHeader-large {
@@ -16,7 +17,7 @@
     font-size: 9rem;
     margin-bottom: 0;
     margin-top: -6rem;
-    color: var(--primary);
+    color: white;
   }
   
   .HomeHeader--Subtitle {

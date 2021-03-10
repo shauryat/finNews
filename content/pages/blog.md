@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: ""
 title: EconZest
-featuredImage: https://i.imgur.com/YfP3c31.png
+featuredImage: https://ucarecdn.com/80cbe4da-879b-4470-8c03-53bd6cf23336/
 subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.
 meta:

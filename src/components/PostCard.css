@@ -23,6 +23,8 @@
 
 .PostCard--Title {
   margin: 0;
+  font-size: 1.8rem;
+  line-height: 1.8rem;
   display: flex;
 }
 
@@ -94,7 +96,7 @@
 }
 
 .PostCard--Author {
-  font-size: 1rem;
-  margin-top: -1.3rem;
+  font-size: 1.3rem;
+  margin-top: -0.2rem;
   color: #D3D3D3;
 }

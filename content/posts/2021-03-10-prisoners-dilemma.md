@@ -4,7 +4,7 @@ title: "PRISONER’S DILEMMA: BLAME THE GAME NOT THE PLAYER"
 author: ~ Viren Jain (Hansraj College)
 status: Published
 date: 2021-03-10
-featuredImage: https://ucarecdn.com/58579203-f0e3-46f2-9b31-93b9617962be/
+featuredImage: https://ucarecdn.com/58579203-f0e3-46f2-9b31-93b9617962be/-/crop/995x691/0,0/-/preview/
 excerpt: OPEC is an inter-governmental organisation comprising of 13 heavily
   oil-producing countries. The basis of OPEC is that these countries jointly
   limit oil supply at any given time. Reduced supply of oil increases prices,

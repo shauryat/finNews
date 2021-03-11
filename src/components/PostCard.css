@@ -85,17 +85,17 @@
 
 
 .PostCard--Category {
-  font-size: 1.4rem;
+  font-size: 1.7rem;
   min-height: 1.2em;
   line-height: 1;
   margin: 0.5em 0;
-  color: var(--primary);
+  color: #38a09d;
   font-weight: 600;
   
 }
 
 .PostCard--Author {
-  font-size: 1.3rem;
-  margin-top: -0.2rem;
-  color: #D3D3D3;
+  font-size: 1.4rem;
+  margin-top: 0.2rem;
+  color: #708090;
 }

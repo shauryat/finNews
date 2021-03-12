@@ -30,7 +30,7 @@ const PostCard = ({
         {categories && categories.filter(cat => cat.category !== "Story of The Day").map(cat => cat.category).join(', ')}
       </div>
   
-      {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
+      
     </div>
   </Link>
 )

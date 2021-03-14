@@ -17,6 +17,7 @@
   font-size: 7rem;
   margin-bottom: 0;
   margin-top: -4rem;
+  font-family: var(--font-primary);
 }
 
 .PageHeader--Subtitle {

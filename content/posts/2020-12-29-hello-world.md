@@ -3,7 +3,7 @@ template: SinglePost
 title: Paradigm Shift during Pandemic
 author: Sana Mittar
 status: Published
-date: 2020-12-25
+date: 2021-02-25
 featuredImage: https://ucarecdn.com/850d9187-1ab3-42dc-92ee-71d7aa227167/
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Tempor id eu nisl nunc.
@@ -59,11 +59,11 @@ The pandemic has brought forth the glaring inequalities among men and women in t
 
 References:
 
-1. <https://www.scribd.com/document/462467949/submission-guidelines-pdf>
-2. <https://pubmed.ncbi.nlm.nih.gov/32355299/>
-3. <https://scroll.in/article/957787/how-indias-lockdown-has-put-women-in-middle-class-homes-at-a-greater-disadvantage>
-4. [https://qz.com/india/1826683/indias-approach-to-fighting-coronavirus-lacks-a-gender-lens/](%22ht)
-5.  [https://www.forbesindia.com/blog/missrepresent-women-gender-sexuality/what-the-covid-19-lockdown-tells-us-about-the-gender-gap-in-house-work/](https://www.forbesindia.com/blog/missrepresent-women-gender-se)
-6. [https://brainly.in/question/17671888](https://brainly.in)
-7. <https://science.sciencemag.org/content/368/6492/724.1?fbclid=IwAR31uV98APh_cnU9woiVivXhAw45Ho7cmIy8Y7H-Sqb8xucI6h96dyYT0A0>
-8. <https://www.oxfamindia.org/about-us/our-team/ranu-bhogal>
+1. <https://bit.ly/2PRzT1O>
+2. <https://bit.ly/3lbBzPe>
+3. <http://bit.ly/3eHQiAa>
+4. <http://bit.ly/38yJXDi>
+5. <http://bit.ly/3lcRDjI>
+6. <https://bit.ly/3vtzAuH>
+7. <http://bit.ly/3eDJh3s>
+8. <https://bit.ly/3bJ6sYd>

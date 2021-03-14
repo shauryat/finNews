@@ -2,9 +2,8 @@
 template: BlogIndex
 slug: ""
 title: EconZest
-featuredImage: https://ucarecdn.com/3b15714f-503a-4b61-84ac-2f867da85cac/
-subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+featuredImage: https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500
+subtitle: EconZest features articles, commentaries, and fascinating data on the real-world implications of important economic, political and financial issues. Founded in 2021 by a group of like minded students. It can be best described as easy-to-understand, thought-provoking, and direct. EconZest is a must read blogging website.
 meta:
   description: A finance articles based website
   title: Home

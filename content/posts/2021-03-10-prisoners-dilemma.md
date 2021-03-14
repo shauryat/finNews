@@ -46,5 +46,5 @@ Both Harris and Monty are choosing Nash Equilibrium state as opposed to globally
 
 **Sources:**
 
-* <https://www.khanacademy.org/economics-finance-domain/ap-microeconomics/imperfect-competition/oligopoly-and-game-theory/v/prisoners-dilemma-and-nash-equilibrium>
-* <https://www.investopedia.com/terms/p/prisoners-dilemma.asp>[](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics/imperfect-competition/oligopoly-and-game-theory/v/prisoners-dilemma-and-nash-equilibrium)
+* <https://bit.ly/3cwyVj8>
+* <https://bit.ly/3ctuJAF>

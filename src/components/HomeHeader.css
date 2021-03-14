@@ -1,11 +1,38 @@
 .HomeHeader {
-    color: black; 
+    background-color: var(--darkGrey);
+    color: white; 
     padding: 10rem 0;
-    height: 375px;
+    height: 475px;
   }
-  
+  /* .grid-wrapper {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-areas: "main main art";
+    column-gap: 10px;
+    height: 375px;
+    padding: 10rem 0;
+    color: black; 
+  }
+
+  .text-wrapper {
+    grid-area: main;
+    margin-left: 20rem;
+  }
+
+  .image-wrapper {
+    grid-area: art;
+   
+  }
+
+  .imageAdjust {
+    height: 450px;
+    margin-top: -100px;
+  }
+   */
+
   .HomeHeader .BackgroundImage {
-    opacity: 0.87;
+    opacity: 0.8;
   }
   
   .HomeHeader-large {
@@ -16,13 +43,13 @@
     font-size: 9rem;
     margin-bottom: 0;
     margin-top: -6rem;
-    color: var(--primary);
+    color: white;
   }
   
   .HomeHeader--Subtitle {
     font-weight: 500;
     font-size: 2.4rem;
-    width: 60%;
+    width: 100%;
   }
   
   .HomeHeader .container {
@@ -39,19 +66,18 @@
       padding: 5.5rem 0;
     }
     .HomeHeader--Title {
-      font-size: 4.4rem;
+      font-size: 6rem;
       margin-bottom: 0;
       margin-top: -3rem;
     }
     .HomeHeader--Subtitle {
       font-weight: 500;
       font-size: 1.45rem;
-      width: 62%;
+      width: 80%;
     
     }
     .HomeHeader {
-      height: 220px;
-      padding: rem 0;
+      height: 380px;
     }
   }
 
@@ -65,18 +91,17 @@
       padding: 5.5rem 0;
     }
     .HomeHeader--Title {
-      font-size: 4.6rem;
+      font-size: 6.6rem;
       margin-bottom: 0;
       margin-top: -2.3rem;
     }
     .HomeHeader--Subtitle {
       font-weight: 500;
       font-size: 1.4rem;
-      width: 60%;
+      width: 80%;
     }
     .HomeHeader {
-      height: 200px;
-      padding: rem 0;
+      height: 360px;
     }
   }
 
@@ -90,17 +115,17 @@
       padding: 9.5rem 0;
     }
     .HomeHeader--Title {
-      font-size: 4.2rem;
+      font-size: 5rem;
       margin-bottom: 0;
+      margin-top: -20px;
     }
     .HomeHeader--Subtitle {
       font-weight: 500;
       font-size: 1.2rem;
-      width: 60%;
+      width: 80%;
     }
     .HomeHeader {
-      height: 220px;
-      padding: 6rem 0;
+      height: 300px;
     }
   }
 
@@ -114,17 +139,16 @@
       padding: 6.5rem 0;
     }
     .HomeHeader--Title {
-      font-size: 4.2rem;
+      font-size: 6.2rem;
       margin-bottom: 0;
     }
     .HomeHeader--Subtitle {
       font-weight: 500;
       font-size: 1.4rem;
-      width: 58%;
+      width: 80%;
     }
     .HomeHeader {
-      height: 230px;
-      padding: 6rem 0;
+      height: 380px;
     }
   }
 

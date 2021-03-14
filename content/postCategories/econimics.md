@@ -6,5 +6,5 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   veniam, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
   veniam,
-featuredImage: https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8ZmluYW5jZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60
+featuredImage: https://t3.ftcdn.net/jpg/02/72/55/76/240_F_272557636_O7jptDa8GQywgSiqA3SM91S0EizavZ7A.jpg
 ---

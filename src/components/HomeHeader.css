@@ -60,21 +60,17 @@
   @media (min-width:375px) and (max-width: 380px) {
     .HomeHeader {
       padding: 4rem 0;
-      margin: none;
-    }
-    .HomeHeader-large {
-      padding: 5.5rem 0;
+      margin-bottom: none;
     }
     .HomeHeader--Title {
       font-size: 6rem;
       margin-bottom: 0;
-      margin-top: -3rem;
+      margin-top: 0rem;
     }
     .HomeHeader--Subtitle {
       font-weight: 500;
       font-size: 1.45rem;
-      width: 80%;
-    
+      width: 80%;   
     }
     .HomeHeader {
       height: 380px;

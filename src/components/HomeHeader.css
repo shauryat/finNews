@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 .HomeHeader {
     background-color: var(--darkGrey);
     color: white; 
     padding: 10rem 0;
-    height: 475px;
+    height: 405px;
   }
   /* .grid-wrapper {
     width: 100%;
@@ -44,6 +46,8 @@
     margin-bottom: 0;
     margin-top: -6rem;
     color: white;
+    font-family: 'Pacifico', cursive;
+    font-weight: 300;
   }
   
   .HomeHeader--Subtitle {
@@ -59,7 +63,7 @@
   /* iPhone X, 11 / 11pro etc. */
   @media (min-width:375px) and (max-width: 380px) {
     .HomeHeader {
-      padding: 4rem 0;
+      padding: 0.3rem 0;
       margin-bottom: none;
     }
     .HomeHeader--Title {
@@ -73,7 +77,7 @@
       width: 80%;   
     }
     .HomeHeader {
-      height: 380px;
+      height: 325px;
     }
   }
 
@@ -97,7 +101,7 @@
       width: 80%;
     }
     .HomeHeader {
-      height: 360px;
+      height: 330px;
     }
   }
 
@@ -144,7 +148,7 @@
       width: 80%;
     }
     .HomeHeader {
-      height: 380px;
+      height: 320px;
     }
   }
 

@@ -43,23 +43,22 @@
 }
 
 .NavLinky {
-  padding: 0.5rem 1rem;
+  padding: 0.4rem 1.3rem;
   margin-right: 10px ;
   display: block;
   font-weight: 500;
   transition: color 0.2s, border-bottom-color 0.2s;
-  color: var(--darkGrey);
+  color: #2da5a1;
   background-color: var(--lightGrey);
   text-decoration: none;
   border-radius: 20px;
-  
 }
 
 .NavLinky:hover,
 .NavLinky.active,
 .NavLinky:focus {
-  background-color: var(--primary);
-  color: var(--lightGrey);
+  background-color: var(--lightGrey);
+  color: var(--primary);
 }
 /* iPhone X, 11 / 11pro etc. */
 @media (min-width:375px) and (max-width: 380px) {

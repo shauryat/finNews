@@ -8,6 +8,9 @@ import PostSection from '../components/PostSection'
 import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
 
+
+
+
 /**
  * Filter posts by date. Feature dates will be fitered
  * When used, make sure you run a cronejob each day to show schaduled content. See docs
@@ -68,6 +71,8 @@ export const BlogIndexTemplate = ({
             subtitle={subtitle}
             backgroundImage={featuredImage}
           />
+          <div>
+    </div>
 
           {!!postCategories.length && (
             <section className="section thin">
@@ -76,6 +81,7 @@ export const BlogIndexTemplate = ({
               </div>
             </section>
           )}
+        
 
           {!!posts.length && (
             <section className="section">

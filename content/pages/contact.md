@@ -3,11 +3,10 @@ template: ContactPage
 slug: contact
 title: Contact Us
 featuredImage: https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500
-subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: Want to contact us feel free! don't hesitate a bit 😀
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: 0987 123 456
-email: example@example.com
+email: econzest@gmail.com
 locations:
   - lat: '-27.9654732'
     lng: '153.2432449'
@@ -17,12 +16,12 @@ meta:
   title: Contact Page
 ---
 
-# Example contact form
+# Feel Free To Contact Us
 
-This form is setup to use Netlify's form handling:
+If you want to contact us as -:
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+- you want to `join the team`
+- found a discrepancy in the articles
+- have a query about the articles 
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Feel free to contact us through our social media accounts or you can fill the form as well! 

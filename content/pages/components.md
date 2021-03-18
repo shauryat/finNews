@@ -3,8 +3,7 @@ template: ComponentsPage
 slug: about
 title: About Us
 featuredImage: https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
-subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: intersection between Economics, Politics, Business & Finance. We work together to design.
 section1: >-
   ## Who are we ?
 

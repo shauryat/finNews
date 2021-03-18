@@ -1,23 +1,21 @@
 ---
 template: SinglePost
-title: The IPO and Equity Markets in 2020
-author: Abhi Desai
+title: "THE IPO AND EQUITY MARKETS IN 2020"
+author: Abhi Desai 
 status: Published
-date: 2021-03-19
-featuredImage: https://ucarecdn.com/6a266cae-8cbd-4b5d-bf58-8a3ddcb5c6e1/-/crop/995x598/0,0/-/preview/
-excerpt: A highly bullish equity market in the past year has led to an
-  unprecedented boom in Initial Public Offerings (IPO). Led by companies such as
-  Airbnb Inc., Snowflake Inc., and Doordash Inc., fresh IPOs raised a
-  record-breaking US$83 billion in 2020. On their first day of trading
-  Doordash’s shares closed at 85% above their IPO listings and Airbnb and
-  Snowflake over a 100% above theirs'. Brazil’s IPO market closely followed suit
-  with its biggest year in a decade, while South Korea - with the market debut
-  of Big Hit Entertainment, the agency behind BTS - listed its largest IPO in
-  three years.
+date: 2021-03-10
+featuredImage: https://ucarecdn.com/58579203-f0e3-46f2-9b31-93b9617962be/-/crop/995x691/0,0/-/preview/
+excerpt: OPEC is an inter-governmental organisation comprising of 13 heavily
+  oil-producing countries. The basis of OPEC is that these countries jointly
+  limit oil supply at any given time. Reduced supply of oil increases prices,
+  which increases profitability of oil producing countries. If all countries
+  agree to increase its price OPEC will face its strategically optimal outcome
+  of high profitability.
 categories:
   - category: Finance
 meta:
-  title: The IPO and Equity Markets in 2020
+  title: IPO in 2020
+  description: IPo in 2020
 ---
 A highly bullish equity market in the past year has led to an unprecedented boom in Initial Public Offerings (IPO). Led by companies such as Airbnb Inc., Snowflake Inc., and Doordash Inc., fresh IPOs raised a record-breaking US$83 billion in 2020. On their first day of trading Doordash’s shares closed at 85% above their IPO listings and Airbnb and Snowflake over a 100% above theirs'. Brazil’s IPO market closely followed suit with its biggest year in a decade, while South Korea - with the market debut of Big Hit Entertainment, the agency behind BTS - listed its largest IPO in three years.
 

@@ -16,6 +16,8 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   curabitur gravida arcu.
 categories:
   - category: Politics
+meta:
+  title: Paradigm Shift during Pandemic
 ---
 Editor : Kanika Sharma- Indraprastha University, MA Economics
 

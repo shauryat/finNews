@@ -10,7 +10,7 @@ export default () => (
           <SocialButtonsContainer
         links={[
           'https://www.facebook.com/EconZest',
-          'https://twitter.com/Twitter',
+          // 'https://twitter.com/Twitter',
           'https://www.instagram.com/econzest/',
           'https://www.linkedin.com/company/econzest'
         ]}

@@ -1,7 +1,7 @@
 ---
 template: SinglePost
-title: THE JOURNEY TO BECOMING THE RICHEST MAN IN THE WORLD AND THE FUTURE OF
-  EVS IN INDIA
+title: The Journey To Becoming The Richest Man In The World AND The Future Of
+  EVs In India
 author: Kapish Jalan
 status: Published
 date: 2021-04-14

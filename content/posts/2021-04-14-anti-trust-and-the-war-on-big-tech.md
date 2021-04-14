@@ -1,10 +1,10 @@
 ---
 template: SinglePost
-title: ANTI TRUST AND THE WAR ON BIG TECH
+title: Anti Trust AND The War On Big Tech
 author: Pratham Mehta
 status: Published
 date: 2021-04-14
-featuredImage: https://ucarecdn.com/a300e21c-5fc9-4cf0-b2f8-6a3198cad884/
+featuredImage: https://ucarecdn.com/a300e21c-5fc9-4cf0-b2f8-6a3198cad884/-/crop/997x839/0,72/-/preview/
 excerpt: It has been historically observed that competition is a virtue of the
   society. Keeping this in mind the Sherman Act of 1980 was created in the
   United States

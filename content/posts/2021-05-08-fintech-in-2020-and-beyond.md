@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: FINTECH IN 2020 AND BEYOND
+title: FinTech in 2020 and beyond
 author: "Abhi Desai "
 status: Published
 date: 2021-05-08

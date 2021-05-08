@@ -4,7 +4,7 @@ title: FinTech in 2020 and beyond
 author: "Abhi Desai "
 status: Published
 date: 2021-05-08
-featuredImage: https://ucarecdn.com/6f7ae2ad-c67d-495e-b74f-5626c9cc3a48/
+featuredImage: https://ucarecdn.com/6f7ae2ad-c67d-495e-b74f-5626c9cc3a48/-/crop/820x662/0,68/-/preview/
 excerpt: Financial Technology, or FinTech, has become increasingly prominent in
   the past year. The threat of COVID-19 infection has made paperless currency
   transactions popular and a go-to alternative in nations across all levels of

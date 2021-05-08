@@ -4,7 +4,7 @@ title: Farm bills & RIL Deal
 author: Kapish Jalan
 status: Published
 date: 2021-05-08
-featuredImage: https://ucarecdn.com/aa7c6dc3-f020-42b2-9165-939fd1598989/
+featuredImage: https://ucarecdn.com/aa7c6dc3-f020-42b2-9165-939fd1598989/-/crop/874x864/67,45/-/preview/
 excerpt: In September 2020, three farm bills were implemented in India; they are
   – The Farmers’ Produce Trade and Commerce (Promotion and Facilitation) Bill,
   2020; The Farmers (Empowerment and Protection) Agreement of Price Assurance

@@ -14,6 +14,8 @@ excerpt: Financial Technology, or FinTech, has become increasingly prominent in
   FinTech companies attracted investments totalling to $4.1 billion in 2020,
   while American firms achieved $22 the same year. Global FinTech investment
   went up from 14% in 2020 to $44 billion.
+categories:
+  - category: Finance
 meta:
   title: FINTECH IN 2020 AND BEYOND
   description: "Abhi Desai "

@@ -3,7 +3,7 @@ template: SinglePost
 title: The ISRAEL PALESTINE Conflict
 status: Published
 date: 2021-08-03
-featuredImage: https://ucarecdn.com/71adf328-4980-4e93-bb01-8401d2e697c6/
+featuredImage: https://ucarecdn.com/71adf328-4980-4e93-bb01-8401d2e697c6/-/crop/702x394/171,0/-/preview/
 excerpt: The Israel Palestine conflict can be traced up to 100 years back. After
   the Ottoman Empire, which ruled that part of the Middle East, was defeated in
   WW-I, Britain took control of Palestine, where a Jewish minority and an Arab

@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: THE IPO AND EQUITY MARKETS IN 2020
-author: Abhi Desai
+author: ""
 status: Published
 date: 2021-03-10
 featuredImage: https://ucarecdn.com/0826741a-e7ac-466c-ad7b-1b71a48cc623/-/crop/995x614/0,0/-/preview/

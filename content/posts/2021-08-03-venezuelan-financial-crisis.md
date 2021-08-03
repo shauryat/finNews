@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: VENEZUELAN FINANCIAL CRISIS
+title: Venezuelan Financial Crisis
 status: Published
 date: 2021-08-03
 featuredImage: https://ucarecdn.com/af9c4f8a-eefe-4a9e-9d1a-1642c42c419a/

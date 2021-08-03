@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Farm bills & RIL Deal
-author: Kapish Jalan
+author: ""
 status: Published
 date: 2021-05-08
 featuredImage: https://ucarecdn.com/aa7c6dc3-f020-42b2-9165-939fd1598989/-/crop/874x864/67,45/-/preview/

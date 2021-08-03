@@ -23,8 +23,6 @@ const PostCard = ({
     <div className="PostCard--Content">
       {title && <h1 className="PostCard--Title">{title}
        </h1>}
-
-      {author && <h2 className="PostCard--Author">@{author}</h2>}
       
       <div className="PostCard--Category">
         {categories && categories.filter(cat => cat.category !== "Story of The Day").map(cat => cat.category).join(', ')}

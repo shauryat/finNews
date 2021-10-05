@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Paradigm Shift during Pandemic
-author: Sana Mittar(Warwick University)
+author: ""
 status: Published
 date: 2021-02-25
 featuredImage: https://ucarecdn.com/850d9187-1ab3-42dc-92ee-71d7aa227167/-/crop/999x568/0,0/-/preview/

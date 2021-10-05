@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Anti Trust AND The War On Big Tech
-author: Pratham Mehta
+author: ""
 status: Published
 date: 2021-04-14
 featuredImage: https://ucarecdn.com/a300e21c-5fc9-4cf0-b2f8-6a3198cad884/-/crop/997x839/0,72/-/preview/

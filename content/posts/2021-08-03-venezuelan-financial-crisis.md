@@ -3,7 +3,7 @@ template: SinglePost
 title: Venezuelan Financial Crisis
 status: Published
 date: 2021-08-03
-featuredImage: https://ucarecdn.com/af9c4f8a-eefe-4a9e-9d1a-1642c42c419a/
+featuredImage: https://ucarecdn.com/af9c4f8a-eefe-4a9e-9d1a-1642c42c419a/-/crop/1047x556/30,25/-/preview/
 excerpt: Venezuela, a South American nation, is often associated with political
   and economic decline. But not many know that this country is home for the
   largest reserves of bauxite, gold, coal, iron ore and oil. It sits on 14.3

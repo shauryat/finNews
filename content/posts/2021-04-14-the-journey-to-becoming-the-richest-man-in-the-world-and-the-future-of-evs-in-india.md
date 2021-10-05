@@ -2,7 +2,7 @@
 template: SinglePost
 title: The Journey To Becoming The Richest Man In The World AND The Future Of
   EVs In India
-author: Kapish Jalan
+author: ""
 status: Published
 date: 2021-04-14
 featuredImage: https://ucarecdn.com/7ef1de77-ff0e-47cf-b17c-8bd6cb49f3c0/-/crop/1000x701/0,0/-/preview/

@@ -3,36 +3,9 @@
 .HomeHeader {
     background-color: var(--darkGrey);
     color: white; 
-    padding: 10rem 0;
-    height: 405px;
+    padding: 15rem 0;
   }
-  /* .grid-wrapper {
-    width: 100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr ;
-    grid-template-areas: "main main art";
-    column-gap: 10px;
-    height: 375px;
-    padding: 10rem 0;
-    color: black; 
-  }
-
-  .text-wrapper {
-    grid-area: main;
-    margin-left: 20rem;
-  }
-
-  .image-wrapper {
-    grid-area: art;
-   
-  }
-
-  .imageAdjust {
-    height: 450px;
-    margin-top: -100px;
-  }
-   */
-
+  
   .HomeHeader .BackgroundImage {
     opacity: 0.8;
   }
@@ -44,7 +17,6 @@
   .HomeHeader--Title {
     font-size: 9rem;
     margin-bottom: 0;
-    margin-top: -6rem;
     color: white;
     font-family: 'Pacifico', cursive;
     font-weight: 300;
@@ -53,102 +25,18 @@
   .HomeHeader--Subtitle {
     font-weight: 500;
     font-size: 2.4rem;
-    width: 100%;
   }
   
   .HomeHeader .container {
     animation: fadeIn 0.5s ease-out;
   }
   
-  /* iPhone X, 11 / 11pro etc. */
-  @media (min-width:375px) and (max-width: 380px) {
-    .HomeHeader {
-      padding: 0.3rem 0;
-      margin-bottom: none;
+  @media (max-width: 600px) {
+    .PageHeader {
+      padding: 7rem 0;
     }
-    .HomeHeader--Title {
-      font-size: 6rem;
-      margin-bottom: 0;
-      margin-top: 0rem;
-    }
-    .HomeHeader--Subtitle {
-      font-weight: 500;
-      font-size: 1.45rem;
-      width: 80%;   
-    }
-    .HomeHeader {
-      height: 325px;
-    }
-  }
-
-/* Big Flagships */
-  @media (min-width:385px) and (max-width: 600px) {
-    .HomeHeader {
-      padding: 4rem 0;
-      margin: none;
-    }
-    .HomeHeader-large {
-      padding: 5.5rem 0;
-    }
-    .HomeHeader--Title {
-      font-size: 6.6rem;
-      margin-bottom: 0;
-      margin-top: -2.3rem;
-    }
-    .HomeHeader--Subtitle {
-      font-weight: 500;
-      font-size: 1.4rem;
-      width: 80%;
-    }
-    .HomeHeader {
-      height: 330px;
-    }
-  }
-
-  /* small phones */
-  @media (min-width:300px) and (max-width: 345px) {
-    .HomeHeader {
-      padding: 4rem 0;
-      margin: none;
-    }
-    .HomeHeader-large {
-      padding: 9.5rem 0;
-    }
-    .HomeHeader--Title {
-      font-size: 5rem;
-      margin-bottom: 0;
-      margin-top: -20px;
-    }
-    .HomeHeader--Subtitle {
-      font-weight: 500;
-      font-size: 1.2rem;
-      width: 80%;
-    }
-    .HomeHeader {
-      height: 300px;
-    }
-  }
-
-  /* 16:9 Oldies */
-  @media (min-width : 350px) and (max-width : 374px) {
-    .HomeHeader {
-      padding: 4rem 0;
-      margin: none;
-    }
-    .HomeHeader-large {
-      padding: 6.5rem 0;
-    }
-    .HomeHeader--Title {
-      font-size: 6.2rem;
-      margin-bottom: 0;
-    }
-    .HomeHeader--Subtitle {
-      font-weight: 500;
-      font-size: 1.4rem;
-      width: 80%;
-    }
-    .HomeHeader {
-      height: 320px;
+    .PageHeader-large {
+      padding: 12.5rem 0;
     }
   }
 

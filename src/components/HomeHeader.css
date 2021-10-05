@@ -38,6 +38,16 @@
     .PageHeader-large {
       padding: 12.5rem 0;
     }
+
+    .HomeHeader--Title {
+      font-size: 7rem;
+    }
+
+    .HomeHeader--Subtitle {
+      font-weight: 500;
+      font-size: 1.7rem;
+    }
+    
   }
 
   
